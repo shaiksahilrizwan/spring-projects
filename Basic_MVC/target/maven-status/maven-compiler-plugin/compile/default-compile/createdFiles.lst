@@ -1,0 +1,6 @@
+com\demomvc\basic_mvc\Controller\UserController.class
+com\demomvc\basic_mvc\Service\UserService.class
+com\demomvc\basic_mvc\Repository\UserRepository.class
+com\demomvc\basic_mvc\AppConfig.class
+com\demomvc\basic_mvc\DB\DBConnection.class
+com\demomvc\basic_mvc\Basic_MVC.class
